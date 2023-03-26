@@ -1,0 +1,36 @@
+body {
+    font-family: cursive !important;
+    background-color: #e2e2e2;
+}
+
+body .card {
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 6px;
+    background-color: #e2e2e2;
+    text-align: center;
+}
+
+body .card img {
+    box-shadow: 10px 10px 5px grey;
+    width: 100%;
+    height: 100%;
+    background-size: 100%
+}
+
+body .card .card-title{
+   margin-top:20px;
+   font-weight: 600;
+}
+
+body .card .card-text{
+    margin-top: 35px;
+}
+
+body .main-title {
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-family: cursive;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
